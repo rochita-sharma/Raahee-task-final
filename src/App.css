@@ -1,0 +1,22 @@
+.app__body {
+  display: flex;
+  flex-direction: row;
+}
+.app__body-navbar{
+   justify-content: flex-start;
+   flex: 0.25;
+}
+.app__body-main{
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  display: block;
+}
+.app__body-main_1{
+  display: flex;
+  justify-content: flex-start;
+  flex: 5;
+}
+.app__body-profile{
+  
+  flex: 0.5;
+}

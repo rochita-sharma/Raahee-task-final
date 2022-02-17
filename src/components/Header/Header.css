@@ -1,0 +1,16 @@
+
+.app__Header-logo img{
+   margin-left: 5px;
+   height: 50px;
+   width: 80px;
+}
+.app__Header-logo{
+   display: flex;
+
+}
+.app__Header-logo i{
+   margin: 1rem 0 0 50px;
+   font-size: 1.3rem;
+}
+
+
